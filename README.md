@@ -1,2 +1,2 @@
-# bmi-calculator-flutter
-learing fllutter with basic functionalities and widgets layouts
+# git-test1
+testing git at work
